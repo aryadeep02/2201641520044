@@ -1,1 +1,6 @@
 node_modules/
+details.txt
+auth.js
+register.js
+package-lock.json
+package.json
