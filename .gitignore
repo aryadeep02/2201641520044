@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Allow only these folders
+!/Frontend Test Submission/
+!/Logging Middleware/
+
+# Allow .gitignore itself
+!.gitignore
